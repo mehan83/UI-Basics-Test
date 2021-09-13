@@ -53,7 +53,7 @@ header {
     .tree {
         width: 290px;
         height: 200px;
-        border-radius: 10px;
+        border-radius: 50%;
     }
 
 
