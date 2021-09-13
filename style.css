@@ -34,7 +34,7 @@ header {
 
    .header3 {
        color: 	rgb(255,165,0);
-       font-size: 2rem;
+       font-size: 2em;
        text-transform: uppercase;
    }
 
@@ -80,6 +80,3 @@ header {
     li a:hover {
         color: red;
     }
-
-
-
