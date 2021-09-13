@@ -1,0 +1,85 @@
+body {
+    padding: 0;
+    margin: 0;
+
+}
+
+
+  /* Header Section  */
+
+header {
+    position: fixed;
+    top: 0;
+    background-color: cyan;
+    width: 100vw;
+    height: 10vh;
+    text-align: center;
+   }
+
+
+
+  /* List Section  */
+
+  main {
+      margin-top: 150px;
+  }
+
+  .list li:nth-child(2){
+      color: blue;
+  }
+  
+
+
+   /* H3 Section */
+
+   .header3 {
+       color: 	rgb(255,165,0);
+       font-size: 2rem;
+       text-transform: uppercase;
+   }
+
+
+
+
+
+
+    /* Images Section */
+
+    .images {
+        display: inline-block;
+        
+    }
+   
+    .tree {
+        width: 290px;
+        height: 200px;
+        border-radius: 10px;
+    }
+
+
+    .image {
+        display: inline-block;
+    }
+
+    /* Box Model Section */
+
+
+    .box-model {
+        padding: 5px;
+        margin: 10%;
+    }
+
+   
+       /* Footer Section */
+
+    li a:visited {
+        color: green;
+         }
+
+
+    li a:hover {
+        color: red;
+    }
+
+
+
